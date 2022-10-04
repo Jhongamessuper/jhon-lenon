@@ -8,7 +8,7 @@ export default function Home() {
     <>
     <h1>Hello World!</h1>
     <hr/>
-    <Link href="/http://www.google.com.br">GOOGLE</Link>
+    <Link href="http://www.google.com.br">GOOGLE</Link>
     </>
     
   )
