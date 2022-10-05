@@ -14,7 +14,7 @@ export default function Home() {
     <Header />
     <hr />
     <p>Os gregos consideravam Zeus o deus supremo e comandante do Universo. Era o deus dos céus, do raio e do trovão. Era considerado pai dos homens e dos deuses. Resgatou seus irmãos, devorados por seu próprio pai, Cronos.</p><br></br>
-    <img src="maxresdefault.jpg"></img>
+    <img src="Zeus/maxresdefault.jpg"></img>
     <Footer />
 
     </>
