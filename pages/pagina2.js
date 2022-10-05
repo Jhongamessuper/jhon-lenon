@@ -1,9 +1,9 @@
 //import Head from 'next/head'
 //import Image from 'next/image'
 //import styles from '../styles/Home.module.css'
-  import Menu from "next/link"
-  import Header from "./globals"
-  import Footer from "./globals"
+  import Link from "next/link"
+  import Header from "./header"
+  import Footer from "./footer"
 
 export default function Pagina2() {
   return (
