@@ -14,7 +14,7 @@ export default function Header() {
           <a>Ir para página 3</a>
          </Link><br></br>
 
-         <Link href= "./index">
+         <Link href= ".">
           <a>Voltar para a página inicial</a>
          </Link><br></br>
          
